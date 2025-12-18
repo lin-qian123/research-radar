@@ -96,7 +96,8 @@ To fetch papers and chat, you need to configure an AI Provider.
     *   **OpenAI/兼容模型**：使用 **Semantic Scholar** API 获取真实数据，再由 LLM 进行翻译和分析。
 *   **跨平台 (PWA)**：支持在 Windows, macOS, Linux, Android 和 iOS 上安装。
 
-<img width="1337" height="850" alt="image" src="https://github.com/user-attachments/assets/ce201649-dec9-4a49-8145-d0117ccdbb36" />
+<img width="1329" height="842" alt="image" src="https://github.com/user-attachments/assets/85571bc4-f02e-485a-90f9-2001b75f4653" />
+
 
 
 ## 📲 安装指南 (用户版)
