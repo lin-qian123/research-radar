@@ -21,6 +21,9 @@
     *   **OpenAI/Compatible**: Uses **Semantic Scholar** API for real data, then uses the LLM for translation/analysis.
 *   **Cross-Platform (PWA)**: Installable on Windows, macOS, Linux, Android, and iOS.
 
+<img width="1337" height="850" alt="image" src="https://github.com/user-attachments/assets/541bfd99-ae26-42f4-a49d-9a943f46f217" />
+
+
 ## 📲 Installation (For Users)
 
 Research Farm is a **Progressive Web App (PWA)**. You can install it directly from your browser without an app store.
@@ -92,6 +95,9 @@ To fetch papers and chat, you need to configure an AI Provider.
     *   **Google Gemini**：使用原生搜索落地 (Search Grounding)。
     *   **OpenAI/兼容模型**：使用 **Semantic Scholar** API 获取真实数据，再由 LLM 进行翻译和分析。
 *   **跨平台 (PWA)**：支持在 Windows, macOS, Linux, Android 和 iOS 上安装。
+
+<img width="1337" height="850" alt="image" src="https://github.com/user-attachments/assets/ce201649-dec9-4a49-8145-d0117ccdbb36" />
+
 
 ## 📲 安装指南 (用户版)
 
