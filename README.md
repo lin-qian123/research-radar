@@ -1,6 +1,6 @@
-# Research Farm 🌱
+# Research Radar 🌱
 
-**Research Farm** is a personalized AI research assistant designed to help researchers "cultivate" knowledge. It automatically harvests the latest scientific breakthroughs, stores them in your local "Barn," and provides an AI "Agronomist" to help you analyze and discuss the literature.
+**Research Radar** is a personalized AI research assistant designed to help researchers "cultivate" knowledge. It automatically harvests the latest scientific breakthroughs, stores them in your local "Barn," and provides an AI "Agronomist" to help you analyze and discuss the literature.
 
 [English Documentation](#english-documentation) | [中文文档](#中文文档)
 
